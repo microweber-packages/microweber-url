@@ -1,7 +1,0 @@
-parameters:
-	ignoreErrors:
-		-
-			message: '#^Call to static method to\(\) on an unknown class Redirect\.$#'
-			identifier: class.notFound
-			count: 5
-			path: src/UrlManagerService.php
